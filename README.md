@@ -57,3 +57,12 @@ https://www.linkedin.com/in/poojitha-abbugari-1a884234a/
 
 Email:
 poojithaabbugari041@gmail.com
+
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojithaabbugari&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojithaabbugari&layout=compact&theme=default)
