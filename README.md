@@ -60,9 +60,12 @@ poojithaabbugari041@gmail.com
 
 
 ---
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojithaabbugari&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poojithaabbugari&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojithaabbugari&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojithaabbugari&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
